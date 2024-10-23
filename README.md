@@ -1,4 +1,4 @@
-![Screenshot 2024-10-23 113851](https://github.com/user-attachments/assets/9e633c60-ec2b-4b1a-a1ff-bdd0720a83d0)# EX-06 - SARSA Learning Algorithm
+# EX-06 - SARSA Learning Algorithm
 
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using SARSA-Learning and compare the state values with the Monte Carlo method.
