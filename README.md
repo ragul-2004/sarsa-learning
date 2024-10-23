@@ -99,7 +99,10 @@ def sarsa(env,
 ![image](https://github.com/user-attachments/assets/9133dc9a-c222-49c0-8235-0c4741c10246)
 
 ### First Visit Monte Carlo Estimates
+
+
 ### Sarsa Estimates:
+![image](https://github.com/user-attachments/assets/b0a58900-ba29-4602-a1b8-edc3b1198841)
 
 ## RESULT:
 Thus the optimal policy for the given RL environment is found using SARSA-Learning and the state values are compared with the Monte Carlo method.
